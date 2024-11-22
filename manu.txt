@@ -1,6 +1,4 @@
-hi
-good morning
-bye bye
-ok
+Hello
+Good morning
 My name is .................................................................................................
 Dont know
